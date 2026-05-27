@@ -6,7 +6,7 @@ I'm passionate about data science and its applications in health. I focus on com
 
 ## 🔬 Current Work
 
-- Geospatial Analysis Intern at Geneva Disease Dynamics — Integrating geospatial covariates and implementing GIS in Uvira, DRC
+- Geospatial Analysis Intern at Geneva Disease Dynamics (GDD) — Integrating geospatial covariates and implementing GIS in Uvira, DRC
 - Scientific Collaborator at VPHI (University of Bern) — Modeling West Nile Virus introduction in Switzerland using temperature-driven SEI–SEIR frameworks
 - Co-author of publications in veterinary epidemiology and livestock health
 
@@ -29,4 +29,4 @@ I'm passionate about data science and its applications in health. I focus on com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-reda--zahri-blue?logo=linkedin)](https://linkedin.com/in/reda-zahri)
 [![Email](https://img.shields.io/badge/Email-reda.zahri%40hotmail.com-red?logo=gmail)](mailto:reda.zahri@hotmail.com)
-[![GDD](https://img.shields.io/badge/Webpage%20GDD-green)](https://www.diseasedynamics.ch/author/reda/)
+[![GDD](https://img.shields.io/badge/Webpage-GDD%20UNIGE-green)](https://www.diseasedynamics.ch/author/reda/)
