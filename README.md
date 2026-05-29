@@ -4,7 +4,7 @@
 
 I'm passionate about data science and its applications in health. I focus on computational epidemiology using machine learning and deep learning to study disease dynamics across species. My interests span One Health and Disease Dynamics — bridging biological insight with technological innovation.
 
-## 🔬 Current Work
+## 🔬 Work
 
 - Geospatial Analysis Intern at Geneva Disease Dynamics (GDD) — Integrating geospatial covariates and implementing GIS in Uvira, DRC
 - Scientific Collaborator at VPHI (University of Bern) — Modeling West Nile Virus introduction in Switzerland using temperature-driven SEI–SEIR frameworks
