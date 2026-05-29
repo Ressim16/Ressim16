@@ -29,4 +29,4 @@ I'm passionate about data science and its applications in health. I focus on com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-reda--zahri-blue?logo=linkedin)](https://linkedin.com/in/reda-zahri)
 [![Email](https://img.shields.io/badge/Email-reda.zahri%40hotmail.com-red?logo=gmail)](mailto:reda.zahri@hotmail.com)
-[![GDD](https://img.shields.io/badge/Webpage-GDD%20UNIGE-green)](https://www.diseasedynamics.ch/author/reda/)
+[![GDD](https://img.shields.io/badge/Webpage-GDD%20UNIGE-green)](https://www.diseasedynamics.ch/author/reda-zahri/)
